@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_solarman"
+        android:icon="@drawable/ic_solar"
+        android:title="@string/tab_solarman" />
+    <item
+        android:id="@+id/nav_goodwe"
+        android:icon="@drawable/ic_solar"
+        android:title="@string/tab_goodwe" />
+    <item
+        android:id="@+id/nav_deye"
+        android:icon="@drawable/ic_solar"
+        android:title="@string/tab_deye" />
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Solar Monitor</string>
+    <string name="tab_solarman">Solarman</string>
+    <string name="tab_goodwe">GoodWe</string>
+    <string name="tab_deye">Deye</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_home">Home</string>
+</resources>
